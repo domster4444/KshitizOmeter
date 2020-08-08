@@ -138,7 +138,7 @@ var percentdeath=(result.deaths/total)*100
         <div className="grid-container">
           <main className="main">
           <div className='center-div'> 
-          <div className="chart"><div className='txtbykshitiz'>CORONA PIE CHART</div></div>
+          <div className="chart"><div className='txtbykshitiz'>CORONA PIE CHART</div><br/><span className='ofnepalcls'>Of Nepal</span></div>
             <ul className='index'>
               <div className='indextxtcls'>INDEX</div>
             

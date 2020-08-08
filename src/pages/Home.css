@@ -44,8 +44,17 @@ body {
   font-family: 'Lemonada', cursive;
 
   font-size: 20px;
-  margin-top: -30px;
+  margin-top: -60px;
   text-align: center;
+}
+
+.ofnepalcls{
+  font-family: 'Lemonada', cursive;
+
+  font-size: 14px;
+position: relative;
+top: -25px;
+left:calc(100vw - 72.5vw);
 }
 .chart {
   margin-top: 55px;
